@@ -6,6 +6,8 @@ Department of Earth, Atmosphere, and Environment
 
 Author: Dr. Alex Haberlie
 
+Expanded by: Brandon Weart
+
 ## Table of contents
 
 - Lecture Materials
